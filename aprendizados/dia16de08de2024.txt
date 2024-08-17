@@ -1,0 +1,30 @@
+ordem de um site:
+
+
+1- linha
+2- style
+3- p
+
+
+
+<!--> serve pra deixar comentários de rascunho ou só para devs
+
+
+icons8
+
+ <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+
+
+
+
+
+
+
+branch: guia de dados
+
+Ex>: main;   Desktop;  MINGW64
+
+
+
+https://ilegra.com/blog/do-zero-git-github-como-criar-primeiro-repositorio-e-subir-seu-primeiro-projeto/#Criar_conta_e_repositorio_no_GitHub
