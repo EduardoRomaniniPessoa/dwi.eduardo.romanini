@@ -1,0 +1,6 @@
+Estrutura de pastas
+
+ls / dir / ll => Listar pastas
+cd nomedapasta ou cd .. => entrar na pasta 
+.. Significa voltar pasta em 1 nível
+. Único significa 'A partir daqui'
